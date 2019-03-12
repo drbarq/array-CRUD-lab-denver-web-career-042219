@@ -1,6 +1,5 @@
 def create_an_empty_array
-  array = []
-  return array
+  return array.new
 
 end
 
@@ -11,6 +10,7 @@ def create_an_array
 end
 
 def add_element_to_end_of_array(array, element)
+  return
 
 end
 
